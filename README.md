@@ -21,6 +21,6 @@ What else do I need?
 numpy, matplotlib and pandas. I recommend "Anaconda" (https://www.anaconda.com/) which has anything you need. 
 
 How to use the software?
-1. Create instance of MINST_NN with the two MNIST train- and test-/files-path as arguments (if you downloaded it from pjreddie.com the file names are "mnist_train.csv" and "mnist_test.csv")
+1. Create instance of MINST_NN with the two MNIST train- and test-/files-paths as arguments (if you downloaded it from pjreddie.com the arguments would be "PATH\mnist_train.csv" and "PATH\mnist_test.csv")
 2. invoke start method
 3. adjust program code if you don't need anything
