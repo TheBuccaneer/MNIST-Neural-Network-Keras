@@ -69,7 +69,7 @@ class MINST_NN():
     def startNN(self, train_input, train_output, test_input, test_output):
         
         #needed parameters for NN
-        EPOCH = 1
+        EPOCH = 10
         BATCH = 10
         activation_sig = 'sigmoid'
         loss_function = 'categorical_crossentropy'
